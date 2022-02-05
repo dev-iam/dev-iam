@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dev-iam
-- 👀 I’m interested in IA
+- 👀 I’m interested in AI
 - 🌱 I’m currently learning programming
-- 💞️ I’m looking to collaborate on Ia
+- 💞️ I’m looking to collaborate on AI
 - 📫 How to reach me alearigth@gmail.com
 
 <!---
